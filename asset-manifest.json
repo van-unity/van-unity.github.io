@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/van-unity.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/van-unity.github.io/static/js/main.bfad2b7b.js",
+    "index.html": "/van-unity.github.io/index.html",
+    "main.073c9b0a.css.map": "/van-unity.github.io/static/css/main.073c9b0a.css.map",
+    "main.bfad2b7b.js.map": "/van-unity.github.io/static/js/main.bfad2b7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bfad2b7b.js"
+  ]
+}
